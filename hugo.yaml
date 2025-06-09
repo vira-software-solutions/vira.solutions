@@ -3,6 +3,10 @@ languageCode: 'en-us'
 title: 'Vira'
 theme: 'hugo-profile'
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 params:
   title: "Vira"
   description: "Welcome to Vira Solutions!"
