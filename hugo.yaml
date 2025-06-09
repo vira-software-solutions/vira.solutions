@@ -3,6 +3,15 @@ languageCode: 'en-us'
 title: 'Vira'
 theme: 'hugo-profile'
 
+Menus:
+  main:
+  - identifies: source-code
+    name: Source Code
+    title: Source Code
+    icon: fa fab-github
+    url: https://github.com/vira-software-solutions/vira.solutions
+
+
 params:
   title: "Vira"
   description: "Welcome to Vira Solutions!"
