@@ -43,6 +43,8 @@ params:
           url: "https://at.linkedin.com/in/ruehrig-j"
         - icon: fab fa-github
           url: "https://github.com/TheRealVira"
+        - icon: fab fa-imdb
+          url: "https://www.imdb.com/name/nm16747014/"
 
   about:
     enable: true
@@ -129,3 +131,4 @@ params:
     socialNetworks:
       linkedin: "https://at.linkedin.com/in/ruehrig-j"
       github: "https://github.com/TheRealVira"
+      imdb: "https://www.imdb.com/name/nm16747014/"
