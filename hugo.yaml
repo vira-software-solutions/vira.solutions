@@ -72,12 +72,12 @@ params:
       - job: "Senior Site Reliability Engineer"
         company: "Allianz Technology"
         companyUrl: "https://tech.allianz.com/en.html"
-        date: "Sep 2021 - present"
+        date: "Sep 2021 - Sep 2025"
         content: "I am currently working as a site reliability engineer at [Allianz Technology](https://tech.allianz.com/en.html). I am focused on improving the resilience of sales operations."
       - job: "Full-Stack-Developer"
         company: "Cloudflight"
         companyUrl: "https://www.cloudflight.io/en/"
-        date: "2019-2020"
+        date: "Sep 2019 - Sep 2020"
         content: "I worked as a full-stack developer at [Cloudflight](https://www.cloudflight.io/en/), delivering tailored solutions for clients such as Deutsche Bahn, Porsche, and [u-space](https://www.cloudflight.io/en/project/uspace-the-new-portal-for-students-and-teachers/)."
 
   education:
