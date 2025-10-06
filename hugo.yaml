@@ -29,7 +29,10 @@ params:
     intro: "Hi, my name is"
     title: "Ing. Johanna Rührig"
     subtitle: "Senior Site Reliability Engineer"
-    content: "I’m a hands-on senior SRE who leads by example and thrives on building reliable systems. I enjoy experimenting in my homelab, exploring new technologies, and sharing knowledge to help teams grow."
+    content: |
+      I’m a senior site reliability engineer with several years of experience building and leading high-availability infrastructure in Kubernetes and OpenShift environments. I focus on automation, scalability, and reliability using tools such as HELM, Terraform, Git, Jenkins, and ArgoCD.
+
+      I believe in leading by example and creating systems that empower teams to deliver with confidence. I enjoy experimenting in my homelab, exploring new technologies, and sharing what I learn to help others grow. After several rewarding years in enterprise environments, I am now focusing on roles and projects where reliability, ownership, and innovation come together.
     button:
       enable: true
       name: "Resume"
@@ -73,14 +76,21 @@ params:
       - job: "Senior Site Reliability Engineer"
         company: "Allianz Technology"
         companyUrl: "https://tech.allianz.com/en.html"
-        date: "Sep 2021 - Sep 2025"
-        content: "I am currently working as a site reliability engineer at [Allianz Technology](https://tech.allianz.com/en.html). I am focused on improving the resilience of sales operations."
+        date: "Sep 2020 - Sep 2025"
+        content: |
+          I worked as a site reliability engineer at [Allianz Technology](https://tech.allianz.com/en.html) focusing on improving the resilience, scalability, and performance of sales operations systems. In this role, I designed and implemented infrastructure solutions using Kubernetes, OpenShift, HELM, Terraform, GitOps, Jenkins, and ArgoCD, ensuring reliable and automated deployments across multiple environments.
+
+          Beyond the technical work, I led projects to migrate critical workloads to cloud platforms and introduced disaster recovery strategies that significantly reduced downtime and operational risk. I also improved monitoring and observability practices, helping teams respond faster to incidents and maintain system stability. Collaborating with international teams, I worked to streamline release processes and implement best practices for sustainable operational excellence.
+
+          What I most value in my work is the intersection of technology and people. Building reliable systems is only part of the challenge, because enabling teams to collaborate effectively, share knowledge, and grow together is just as important. My time at Allianz deepened my expertise in cloud infrastructure and DevOps workflows, and reinforced my belief that thoughtful engineering and strong teamwork are the foundations of truly dependable systems.
       - job: "Full-Stack-Developer"
         company: "Cloudflight"
         companyUrl: "https://www.cloudflight.io/en/"
         date: "Sep 2019 - Sep 2020"
-        content: "I worked as a full-stack developer at [Cloudflight](https://www.cloudflight.io/en/), delivering tailored solutions for clients such as Deutsche Bahn, Porsche, and [u-space](https://www.cloudflight.io/en/project/uspace-the-new-portal-for-students-and-teachers/)."
+        content: |
+          I worked as a full-stack developer at [Cloudflight](https://www.cloudflight.io/en/), delivering tailored software solutions for clients including Deutsche Bahn, Porsche, and [u-space](https://www.cloudflight.io/en/project/uspace-the-new-portal-for-students-and-teachers/). In this role, I contributed to both front-end and back-end development, helping build scalable, maintainable applications that addressed each client’s unique needs.
 
+          I collaborated closely with cross-functional teams, translating complex requirements into reliable and user-friendly systems. My work involved implementing modern technologies and frameworks, optimizing workflows, and ensuring the applications could scale effectively as user demand grew. This experience strengthened my ability to adapt quickly to diverse projects and deepened my understanding of end-to-end software delivery, from design and development to deployment and maintenance.
   education:
     enable: true
     items:
