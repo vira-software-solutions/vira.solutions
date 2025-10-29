@@ -59,6 +59,8 @@ params:
         - "AWS"
         - "Azure"
         - "GCP"
+        - "ITSM"
+        - "ESM"
         - "K8s"
         - "Helm"
         - "Docker"
