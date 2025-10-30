@@ -38,6 +38,8 @@ make help     # Show all available commands
 ### Option 2: GitHub Pages (Optional)
 GitHub Actions can also automatically deploy to GitHub Pages on every push.
 
+**Note:** GitHub Pages will serve from `https://vira-software-solutions.github.io/vira.solutions/` (with subpath). The workflow automatically adjusts the baseURL to match this.
+
 **To enable:**
 1. Go to repository Settings → Pages
 2. Source: Select GitHub Actions
