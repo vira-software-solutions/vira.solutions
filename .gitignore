@@ -1,0 +1,19 @@
+# Hugo generated files
+# Note: public/ is tracked because Alpine container pulls and uses it
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Hugo lock file
+.hugo_build.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
