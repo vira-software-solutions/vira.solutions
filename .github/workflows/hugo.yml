@@ -64,7 +64,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}"          
+            --baseURL "https://vira-software-solutions.github.io/vira.solutions/"          
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
