@@ -64,7 +64,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://vira-software-solutions.github.io/vira.solutions/"          
+            --config hugo.yaml,config-github-pages.yaml          
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
