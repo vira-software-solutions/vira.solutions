@@ -30,9 +30,9 @@ params:
     title: "Ing. Johanna Rührig"
     subtitle: "Senior Site Reliability Engineer"
     content: |
-I’m a senior site reliability engineer and technical leader with extensive experience designing and guiding high-availability infrastructure in Kubernetes and OpenShift environments. My leadership approach blends deep technical expertise with a focus on collaboration, enabling teams to deliver reliable, scalable systems through automation and continuous improvement.
-
-I lead by example (building solutions with tools like HELM, Terraform, Git, Jenkins, and ArgoCD) and fostering an environment where others can learn, experiment, and grow. I’m passionate about creating systems that empower teams to operate with confidence and autonomy. After several fulfilling years in large enterprise environments, I’m now seeking opportunities where reliability, ownership, and innovation meet to create lasting impact.
+      I’m a senior site reliability engineer and technical leader with extensive experience designing and guiding high-availability infrastructure in Kubernetes and OpenShift environments. My leadership approach blends deep technical expertise with a focus on collaboration, enabling teams to deliver reliable, scalable systems through automation and continuous improvement.
+      
+      I lead by example (building solutions with tools like HELM, Terraform, Git, Jenkins, and ArgoCD) and fostering an environment where others can learn, experiment, and grow. I’m passionate about creating systems that empower teams to operate with confidence and autonomy. After several fulfilling years in large enterprise environments, I’m now seeking opportunities where reliability, ownership, and innovation meet to create lasting impact.
     button:
       enable: true
       name: "Resume"
