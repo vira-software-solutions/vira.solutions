@@ -52,6 +52,13 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
       
+      - name: Generate GitHub Pages config
+        run: |
+          cat > config-github-pages-dynamic.yaml << EOF
+          baseURL: '${{ steps.pages.outputs.base_url }}/'
+          canonifyURLs: true
+          EOF
+      
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       
@@ -64,7 +71,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --config hugo.yaml,config-github-pages.yaml          
+            --config hugo.yaml,config-github-pages-dynamic.yaml          
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
